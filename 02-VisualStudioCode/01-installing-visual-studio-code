@@ -1,0 +1,13 @@
+# Installing Visual Studio Code
+
+Select the installer for your machine: https://code.visualstudio.com/download
+
+## Extensions
+Once VSCode is installed, you can install extensions from within the client. 
+On the far left of the window are a series of panels ("Explorer", "Search", etc.,). Select the Extensions panel. Alternatively, at the very top of the screen next to "File", "Edit", etc.,) click View, and under the dropdown menu select Extensions. 
+
+There are many different extensions available depending on what you want to do with VSCode. We will install an extension that will help us in interacting with Github. 
+
+In the Extensions search bar, type Github Pull Request, click on the extension once it appears, and click Install. 
+
+

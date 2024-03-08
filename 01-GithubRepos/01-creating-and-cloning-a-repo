@@ -1,0 +1,16 @@
+# Creating and cloning a repository
+
+Your Github account can hold an unlimited number of public repositories (repos) and a small number of private repos. To create a new repo, navigate to your profile, and under the Repositories tab click New. 
+
+Fill in the options on the New repo page:
+1. Repo name: 
+2. Description:
+3. Select "Public" or "Private". Start with a Private repo if this is your first one, or if you are working on a project you don't necessarily want to share 
+4. Check the box to add a README 
+5. For now you can leave the "Add .gitignore" option as it is
+6. Choose a license: If this is an open project where you are happy for others to freely use and distribute any of your code or findings, select GNU General Public License v3.0 (or an equivalent, if you prefer). 
+
+Finally, click Create Repository
+
+You should now see your new repo in the Repositories tab, click on it to open it. 
+
